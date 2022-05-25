@@ -1,0 +1,12 @@
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\net6.0\ArgumentGuards.csproj.AssemblyReference.cache
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\net6.0\ArgumentGuards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\net6.0\ArgumentGuards.AssemblyInfoInputs.cache
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\net6.0\ArgumentGuards.AssemblyInfo.cs
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\net6.0\ArgumentGuards.csproj.CoreCompileInputs.cache
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\bin\Debug\net6.0\ArgumentGuards.deps.json
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\bin\Debug\net6.0\ArgumentGuards.dll
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\bin\Debug\net6.0\ArgumentGuards.pdb
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\net6.0\ArgumentGuards.dll
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\net6.0\refint\ArgumentGuards.dll
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\net6.0\ArgumentGuards.pdb
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\net6.0\ref\ArgumentGuards.dll

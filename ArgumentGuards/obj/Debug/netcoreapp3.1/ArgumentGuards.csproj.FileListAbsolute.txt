@@ -1,0 +1,10 @@
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\netcoreapp3.1\ArgumentGuards.csproj.AssemblyReference.cache
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\netcoreapp3.1\ArgumentGuards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\netcoreapp3.1\ArgumentGuards.AssemblyInfoInputs.cache
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\netcoreapp3.1\ArgumentGuards.AssemblyInfo.cs
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\netcoreapp3.1\ArgumentGuards.csproj.CoreCompileInputs.cache
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\bin\Debug\netcoreapp3.1\ArgumentGuards.deps.json
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\bin\Debug\netcoreapp3.1\ArgumentGuards.dll
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\bin\Debug\netcoreapp3.1\ArgumentGuards.pdb
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\netcoreapp3.1\ArgumentGuards.dll
+C:\Users\Vissc\source\repos\csharp\ArgumentGuards\ArgumentGuards\obj\Debug\netcoreapp3.1\ArgumentGuards.pdb
